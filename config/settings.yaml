@@ -1,0 +1,18 @@
+scoring:
+  skill_match: 30
+  experience: 20
+  ats_keywords: 15
+  responsibilities: 15
+  location: 8
+  salary: 7
+  education_certifications: 5
+
+thresholds:
+  strong_match: 80
+  good_match: 65
+  possible_match: 45
+  weak_match: 25
+
+application:
+  auto_submit: false
+  allow_manual_only: true
