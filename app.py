@@ -7,7 +7,7 @@ import streamlit as st
 
 from database import repository as repo
 
-st.set_page_config(page_title='Job Application Agent', page_icon='🎯', layout='wide')
+st.set_page_config(page_title='Job Application Agent', layout='wide')
 st.title('🎯 Personal Job-Application Agent')
 st.markdown(
     '''
