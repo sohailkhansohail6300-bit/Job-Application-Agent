@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Personal Job-Application Agent
 
 This project is a local, human-in-the-loop job application assistant designed to help you manage the full job application lifecycle without submitting anything automatically. It analyzes a job description, scores how well it matches your profile, tailors your CV and cover letter using only facts from your master profile, answers job-application questions, validates claims before approval, and exports final documents for manual submission.
