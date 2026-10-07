@@ -187,6 +187,6 @@ Use the tool as a decision-support system rather than an autonomous job-applicat
 ## Support notes
 
 This project is intended as a personal, privacy-focused workflow assistant. Since it uses local data and explicit user review, it is best suited for individual use and small-scale job search tracking rather than fully automated mass application workflows.
-=======
+
 # Job-Application-Agent
 >>>>>>> f7649554f7c2a50f07c8b06b0c3cd801f446a0dc
